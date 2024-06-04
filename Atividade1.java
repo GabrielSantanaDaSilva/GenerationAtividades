@@ -7,7 +7,7 @@ public class Atividade1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-	Scanner leia = new Scanner(System.in);
+	Scanner leia = new Scanner(System.in); 
 		
 float salario, abono;
 
