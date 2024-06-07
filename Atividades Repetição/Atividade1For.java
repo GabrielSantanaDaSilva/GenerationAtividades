@@ -17,12 +17,12 @@ public class Atividade1For {
 		numero2 = leia.nextInt();
 
 		if (numero1 > numero2) {
-			
+
 			System.out.println("Intervalo Inválido");
-			
+
 		} else {
 			System.out.println("No intervalo entre " + numero1 + " e " + numero2 + ": ");
-			
+
 			for (int i = numero1; i < numero2; i++) {
 
 				if (i % 3 == 0 && i % 5 == 0) {
