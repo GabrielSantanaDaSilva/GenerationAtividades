@@ -1,4 +1,4 @@
-package generationatividades;
+package generationatividades.atividadesrepeticao;
 
 import java.util.Scanner;
 

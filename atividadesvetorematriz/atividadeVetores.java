@@ -1,4 +1,4 @@
-package generationatividades;
+package generationatividades.atividadesvetorematriz;
 
 import java.util.Scanner;
 

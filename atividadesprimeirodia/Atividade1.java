@@ -1,4 +1,4 @@
-package generationatividades;
+package generationatividades.atividadesprimeirodia;
 
 import java.util.Scanner;
 

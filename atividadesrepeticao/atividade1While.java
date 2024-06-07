@@ -1,5 +1,4 @@
-package generationatividades;
-
+package generationatividades.atividadesrepeticao;
 import java.util.Scanner;
 
 public class atividade1While {
