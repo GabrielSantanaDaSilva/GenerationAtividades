@@ -1,4 +1,4 @@
-package generationatividades.atividadesrepeticao;
+package GenerationAtividades.atividadesrepeticao;
 
 import java.util.Scanner;
 
@@ -85,20 +85,22 @@ public class atividade2While {
 
 			System.out.println("Você deseja adicionar mais alguem? ");
 			continua = leia.next().charAt(0);
-			
+
 		}
-		
-			System.out.println("Total de pessoas desenvolvedoras de backend: "+quantidadebackend);
-			
-			System.out.println("Total de Mulheres Cis e Trans desenvolvedoras Frontend: "+quantidadefrontend);
-			
-			System.out.println("Total de Homens Cis e Trans desenvolvedores Mobile maiores de 40 anos: "+quantidademobile);
-			
-			System.out.println("Total de Pessoas Não Binárias desenvolvedoras FullStack menores de 30 anos: "+quantidadefullstack);
-			
-			System.out.println("O número total de pessoas que responderam à pesquisa: "+totalpessoas);
-			
-			System.out.println("A média de idade das pessoas que responderam à pesquisa: "+(idadetotal/totalpessoas));
+
+		System.out.println("Total de pessoas desenvolvedoras de backend: " + quantidadebackend);
+
+		System.out.println("Total de Mulheres Cis e Trans desenvolvedoras Frontend: " + quantidadefrontend);
+
+		System.out
+				.println("Total de Homens Cis e Trans desenvolvedores Mobile maiores de 40 anos: " + quantidademobile);
+
+		System.out.println(
+				"Total de Pessoas Não Binárias desenvolvedoras FullStack menores de 30 anos: " + quantidadefullstack);
+
+		System.out.println("O número total de pessoas que responderam à pesquisa: " + totalpessoas);
+
+		System.out.println("A média de idade das pessoas que responderam à pesquisa: " + (idadetotal / totalpessoas));
 
 	}
 

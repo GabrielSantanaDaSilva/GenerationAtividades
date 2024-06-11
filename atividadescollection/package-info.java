@@ -1,1 +1,1 @@
-package atividadescollection;
+package GenerationAtividades.atividadescollection;

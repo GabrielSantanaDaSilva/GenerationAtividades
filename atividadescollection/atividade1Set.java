@@ -1,4 +1,4 @@
-package atividadescollection;
+package GenerationAtividades.atividadescollection;
 
 import java.util.Scanner;
 import java.util.Set;

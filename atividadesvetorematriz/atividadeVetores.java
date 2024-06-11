@@ -1,4 +1,4 @@
-package generationatividades.atividadesvetorematriz;
+package GenerationAtividades.atividadesvetorematriz;
 
 import java.util.Scanner;
 
@@ -21,9 +21,9 @@ public class atividadeVetores {
 				System.out.println("O número " + escolha + " é o " + (i + 1) + "° da lista");
 			}
 		}
-			if (escolha < 1 || escolha > 10) {
+		if (escolha < 1 || escolha > 10) {
 
-				System.out.println("Opção inválida");
+			System.out.println("Opção inválida");
 		}
 
 	}

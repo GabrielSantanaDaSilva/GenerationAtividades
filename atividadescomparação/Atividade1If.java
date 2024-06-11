@@ -1,4 +1,4 @@
-package generationatividades.atividadescomparação;
+package GenerationAtividades.atividadescomparação;
 
 import java.util.Scanner;
 import java.util.Scanner;
